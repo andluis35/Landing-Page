@@ -1,4 +1,4 @@
-# Landing Page
+# Coffee Shop Landing Page
 
 **Desenvolvido por:** Anderson Luis
 
